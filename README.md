@@ -1,4 +1,4 @@
-# Integrating AI into .NET with Microsoft.Extensions.AI
+# Integrating AI into your .NET application with Microsoft.Extensions.AI
 
 Artificial Intelligence (AI) is transforming the way we build applications. With the introduction of `Microsoft.Extensions.AI`, integrating AI services into .NET applications has never been easier. In this blog, we'll explore Microsoft.Extensions.AI, why .NET developers should try it out, and how to get started using it to build a simple text generation application.
 
@@ -16,7 +16,7 @@ Instead of juggling raw HTTP requests and complex authentication for each provid
 
 Let's walk through how to add text generation capabilities to your .NET application step by step, whether you decide to use GitHub Models or Azure AI Foundry.
 
-## 🌱 Getting Started with Microsoft.Extensions.AI Using GitHub Models
+## 🌱 Getting Started with Microsoft.Extensions.AI using GitHub Models
 GitHub Models is a free service that lets you try out and interact with different AI models right within your development environment. It's easy to use with Codespaces, making it a great tool for experimenting with various models and understanding their capabilities before you decide to implement them. GitHub Models are particularly suitable for quick trials and allow easy model switching.
 
 
@@ -64,7 +64,7 @@ Here's how to go about it:
 
 ---
 
-### 🔧 Step 3: Configure GitHub Models in Your App
+### 🔧 Step 3: Configure GitHub Models in your App
 
 1. Open the folder `MEAI-GitHub-Models` in your Codespace
 
