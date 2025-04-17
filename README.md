@@ -82,7 +82,7 @@ Here's how to go about it:
 
 6. You can change the prompt by editing **line 16 of `Program.cs`**
 
-Congratulations! 🎉 Next, let's explore how to create your application using `Azure AI Foundry services` 🚀
+Congratulations! 🎉 Next, let's explore how to create your application using [`Azure AI Foundry services`](https://github.com/japhletnwamu/MEAI-for-Dotnet-Developers/blob/main/MEAI-Azure-OpenAI/README.md) 🚀
 
 ## 🎒 Additional Resources
 
@@ -95,4 +95,3 @@ We have a lot of other content to help your learning journey. Check out:
 - [AI Agents for Beginners](https://aka.ms/buildaiagents)
 
 - [Mastering GitHub Copilot for C#/.NET Developers](https://aka.ms/github-copilot.net)
-
