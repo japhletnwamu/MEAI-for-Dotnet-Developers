@@ -104,3 +104,15 @@ dotnet run
 ```
 
 ✅ You're now ready to build and run your .NET AI-powered application using `Microsoft.Extensions.AI` and `Azure AI Foundry`!
+
+## 🎒 Additional Resources
+
+We have a lot of other content to help your learning journey. Check out:
+
+- [Generative AI for Beginners](https://aka.ms/buildgenai)
+
+- [Generative AI for Beginners .NET](https://aka.ms/genai.net)
+
+- [AI Agents for Beginners](https://aka.ms/buildaiagents)
+
+- [Mastering GitHub Copilot for C#/.NET Developers](https://aka.ms/github-copilot.net)
