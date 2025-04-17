@@ -48,10 +48,7 @@ dotnet new console -o TextGenerationApp
 If you're using **Visual Studio**, go ahead to create a .NET console project with your desired name. I'll name my project `TextGenerationApp`.  
 Ensure your terminal is switched to this directory.
 
-As an alternative, you can also decide to clone the repository:
-
-👉 [https://github.com/japhletnwamu/MEAI-for-Dotnet-Developers](https://github.com/japhletnwamu/MEAI-for-Dotnet-Developers)  
-Either in **VS Code** or **Visual Studio**.
+As an alternative, you can also decide to clone the repository 👉 [https://github.com/japhletnwamu/MEAI-for-Dotnet-Developers](https://github.com/japhletnwamu/MEAI-for-Dotnet-Developers) either in **VS Code** or **Visual Studio**.
 
 ---
 
