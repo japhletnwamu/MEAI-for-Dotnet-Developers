@@ -19,6 +19,7 @@ Let's walk through how to add text generation capabilities to your .NET applicat
 ## 🌱 Getting Started with Microsoft.Extensions.AI Using GitHub Models
 GitHub Models is a free service that lets you try out and interact with different AI models right within your development environment. It's easy to use with Codespaces, making it a great tool for experimenting with various models and understanding their capabilities before you decide to implement them. GitHub Models are particularly suitable for quick trials and allow easy model switching.
 
+
 ### 🏗️ Step 1: Creating a Personal Access Token for GitHub Models Access
 
 To use GitHub Models, you first need to create a personal access token:
@@ -45,6 +46,7 @@ To use GitHub Models, you first need to create a personal access token:
 
 7. Click **Generate token** and **copy the token to your clipboard**
 
+---
 
 ### ✨ Step 2: Creating your Codespace
 
@@ -60,6 +62,7 @@ Here's how to go about it:
 
 5. You may be prompted to install required extensions like the **C# Dev Kit**
 
+---
 
 ### 🔧 Step 3: Configure GitHub Models in Your App
 
@@ -69,6 +72,7 @@ Here's how to go about it:
 
 3. Replace the placeholder `"GITHUB_TOKEN"` on line 8 with the token you generated earlier
 
+---
 
 ### 💬 Step 4: Test Your Application
 

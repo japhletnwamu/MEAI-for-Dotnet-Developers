@@ -33,6 +33,7 @@ We would be using Azure AI services for our solution. To use Azure AI Foundry mo
 
 8. Well-done. For the next step, you would need your **endpoint** and **API key**, so be sure to take note of those.
 
+---
 
 ### 🚀 Step 2: Create a .NET Console Application
 
@@ -52,6 +53,7 @@ As an alternative, you can also decide to clone the repository:
 👉 [https://github.com/japhletnwamu/MEAI-for-Dotnet-Developers](https://github.com/japhletnwamu/MEAI-for-Dotnet-Developers)  
 Either in **VS Code** or **Visual Studio**.
 
+---
 
 ### 🛠️ Step 3: Install the NuGet Package
 
@@ -66,6 +68,8 @@ Or, if you use a Windows device and prefer to, you can use Package Manager:
 ```powershell
 Install-Package Microsoft.Extensions.AI
 ```
+
+---
 
 ### 🔗 Step 4: Configure AI Services in Your App
 
@@ -84,6 +88,8 @@ var apiKey = new ApiKeyCredential("YOUR_API_KEY");
 var deploymentName = "YOUR_DEPLOYMENT_NAME"; // e.g. "gpt-4o-mini"
 ```
 
+---
+
 ### 🔧 Step 5: Initialize the AzureOpenAIClient
 
 Next, we would need to set up the communication channel between our .NET application and the Azure OpenAI service.
@@ -94,6 +100,8 @@ IChatClient client = new AzureOpenAIClient(
     apiKey)
 .AsChatClient(deploymentName);
 ```
+
+---
 
 ### 💬 Step 6: Test Your Application
 
