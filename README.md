@@ -25,13 +25,21 @@ To use GitHub Models, you first need to create a personal access token:
 
 1. Select your GitHub profile picture and click **⚙️ Settings**
 
-2. In the left sidebar, click **Developer settings**
+2. In the left sidebar, click **<> Developer settings**
+
+    ![GitHub settings page](MEAI-GitHub-Models/images/github-settings.png)
 
 3. Under **🔑 Personal access tokens**, click **Tokens (classic)**
 
+    ![Developer settings page](MEAI-GitHub-Models/images/developer-settings.png)
+
 4. Select **Generate new token**, then click **Generate new token (classic)**
 
+    ![Generate new token menu](MEAI-GitHub-Models/images/generate-new-token-menu.png)
+
 5. Under the "Note" field, give your token a descriptive name (e.g., `Testing-MEAI-In-NET`)
+
+    ![Generate new token page](MEAI-GitHub-Models/images/generate-new-token-page.png)
 
 6. For expiration, select **Custom** and set it to 7 days (recommended for security)
 
@@ -73,6 +81,8 @@ Here's how to go about it:
 
 3. Or right-click on the folder and select **Open in Integrated Terminal**
 
+    ![GitHub Codespaces environment](MEAI-GitHub-Models/images/github-codespace-page.png)
+
 4. Run the application:
     ```bash
     dotnet run
@@ -82,7 +92,9 @@ Here's how to go about it:
 
 6. You can change the prompt by editing **line 16 of `Program.cs`**
 
-Congratulations! 🎉 Next, let's explore how to create your application using [`Azure AI Foundry services`](https://github.com/japhletnwamu/MEAI-for-Dotnet-Developers/blob/main/MEAI-Azure-OpenAI/README.md) 🚀
+Congratulations! 🎉 You’ve successfully integrated AI capabilities into your .NET application using `Microsoft.Extensions.AI` and `GitHub Models!` 🚀
+
+Next, let's explore how to create your application using [`Azure AI Foundry services`](https://github.com/japhletnwamu/MEAI-for-Dotnet-Developers/blob/main/MEAI-Azure-OpenAI/README.md) 🚀
 
 ## 🎒 Additional Resources
 
