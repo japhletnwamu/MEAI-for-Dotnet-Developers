@@ -110,7 +110,7 @@ var response = await client.GetResponseAsync("Write a short story about a robot 
 
 Finally, you want to print the answer provided by the AI to the screen. We do so by using the code below
 ```csharp
-Console.WriteLine(response)
+Console.WriteLine(response);
 ```
 ---
 
