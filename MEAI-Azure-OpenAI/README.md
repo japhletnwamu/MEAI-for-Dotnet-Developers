@@ -23,9 +23,9 @@ We would be using Azure AI services for our solution. To use Azure AI Foundry mo
 
 5. Click on **Deployments** to open a new page that allows you to create a deployment using any of the 27 models available on Azure AI Foundry
 
-    ![The Azure AI models deployment page](/MEAI-Azure-OpenAI/images/azure-ai-model-deployment-page.png)
-
 6. Click on **Deploy model**. For this solution, we would be using `gpt-40-mini`. So go ahead to select that model and click on **Confirm** to continue
+
+    ![The Azure AI models deployment page](/MEAI-Azure-OpenAI/images/azure-ai-model-deployment-page.png)
 
 7. Give your deployment a name and click on **Deploy**
 
