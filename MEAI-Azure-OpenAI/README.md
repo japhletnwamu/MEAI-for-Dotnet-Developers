@@ -100,7 +100,21 @@ IChatClient client = new AzureOpenAIClient(
 
 ---
 
-### 💬 Step 6: Test Your Application
+### 💬 Step 6: Sending a Request and Waiting for Response
+
+Next, we want to include a request. This request would be sent to our Azure OpenAI service. The app waits for the answer and stores it in a variable called "response".
+
+```csharp
+var response = await client.GetResponseAsync("Write a short story about a robot who loves to learn");
+```
+
+Finally, you want to print the answer provided by the AI to the screen. We do so by using the code below
+```csharp
+Console.WriteLine(response)
+```
+---
+
+### 🚀 Step 7: Test Your Application
 
 To test your application, run (not "Run and Debug") the following command:
 
