@@ -64,17 +64,7 @@ Here's how to go about it:
 
 ---
 
-### 🔧 Step 3: Configure GitHub Models in your App
-
-1. Open the folder `MEAI-GitHub-Models` in your Codespace
-
-2. Navigate to the `MEAI-GitHub-Models.csproj` file
-
-3. Replace the placeholder `"GITHUB_TOKEN"` on line 8 with the token you generated earlier
-
----
-
-### 💬 Step 4: Test Your Application
+### 🚀 Step 3: Test Your Application
 
 1. Open the terminal (`Ctrl` + `\` on Windows or `Cmd` + `\` on macOS)
 
@@ -101,12 +91,11 @@ Congratulations! 🎉 You’ve successfully integrated AI capabilities into your
 Next, let's explore how to create your application using [`Azure AI Foundry services`](https://github.com/japhletnwamu/MEAI-for-Dotnet-Developers/blob/main/MEAI-Azure-OpenAI/README.md) 🚀
 
 ## 🎒 Additional Resources
+If you want to know more, the Generative AI for Beginners .NET repo will help with next steps like Functions, Agents, MCP, etc. Check out this resource here - [Generative AI for Beginners .NET](https://github.com/microsoft/Generative-AI-for-beginners-dotnet/?WT.mc_id=academic-168490-japhletnwamu)
 
 We have a lot of other content to help your learning journey. Check out:
 
 - [Generative AI for Beginners](https://aka.ms/buildgenai)
-
-- [Generative AI for Beginners .NET](https://aka.ms/genai.net)
 
 - [AI Agents for Beginners](https://aka.ms/buildaiagents)
 
